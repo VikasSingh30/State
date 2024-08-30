@@ -1,0 +1,21 @@
+.app-container {
+  text-align: center;
+  padding: 20px;
+}
+
+.dropdown-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px; 
+  margin-bottom: 20px;
+}
+
+.dropdown {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.dropdown select {
+  padding: 5px;
+}
